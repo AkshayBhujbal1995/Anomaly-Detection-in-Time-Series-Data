@@ -1,7 +1,5 @@
-Here's the complete README content with everything included in one file for your project:
 
-```markdown
-# Anomaly Detection in Time Series Data using Autoencoder
+## Anomaly Detection in Time Series Data using Autoencoder
 
 This repository contains a Python implementation of anomaly detection in time series data using an autoencoder. The autoencoder is a neural network that learns to compress and reconstruct input data, making it suitable for detecting anomalies in data sequences. The implementation uses TensorFlow, Keras, and other Python libraries for data manipulation and model evaluation.
 
